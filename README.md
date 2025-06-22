@@ -15,7 +15,7 @@ This repository contains code and simulations for a research project exploring q
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.tudelft.nl/2425-cse3000-byzantine/research-project-jerzy.git
+   git clone git@github.com:jrzwrz/research_project.git
    cd research-project-jerzy
    ```
 
