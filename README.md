@@ -4,6 +4,8 @@
 
 This repository contains code and simulations for a research project exploring quantum network protocols using [SquidASM](https://squidasm.readthedocs.io/en/latest/index.html), a simulator for quantum networking built on NetSquid. The project uses **Python 3.12.7** and is compatible with **SquidASM version 0.13.4**.
 
+> 🧪 This project is part of the [2025 Research Project](https://github.com/TU-Delft-CSE/Research-Project) of [TU Delft](https://github.com/TU-Delft-CSE).
+
 ## Installation
 
 ### Requirements
